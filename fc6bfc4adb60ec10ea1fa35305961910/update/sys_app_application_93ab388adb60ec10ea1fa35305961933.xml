@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Administration made easy</description>
+        <device_type>browser</device_type>
+        <hint>Administration made easy</hint>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-19 09:20:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>93ab388adb60ec10ea1fa35305961933</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Now Access Assistant</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Now Access Manager" source="x_snc_now_acc_mgr">fc6bfc4adb60ec10ea1fa35305961910</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Access Manager">fc6bfc4adb60ec10ea1fa35305961910</sys_scope>
+        <sys_update_name>sys_app_application_93ab388adb60ec10ea1fa35305961933</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-19 09:20:44</sys_updated_on>
+        <title>Now Access Assistant</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
